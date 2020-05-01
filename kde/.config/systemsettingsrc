@@ -1,0 +1,15 @@
+[DownloadDialog Settings]
+Height 900=494
+Width 1600=700
+
+[MainWindow]
+Height 900=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABkAAAANBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=1024
+Window-Maximized 900x1600=true
+
+[Open-with settings]
+CompletionMode=1
+History=syncthing --no-browser

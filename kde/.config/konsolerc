@@ -1,0 +1,10 @@
+[Favorite Profiles]
+Favorites=Breath2.profile
+
+[MainWindow]
+Height 900=833
+Width 1600=1600
+Window-Maximized 900x1600=true
+
+[Notification Messages]
+ShowPasteUnprintableWarning=true
