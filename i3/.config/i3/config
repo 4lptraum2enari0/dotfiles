@@ -220,5 +220,7 @@ for_window [title="Desktop — Plasma"] kill; floating enable; border none
 
 exec --no-startup-id feh --bg-scale /home/moe/Documents/wallpaper.jpg
 
-exec --no-startup-id picom --backend xrender --experimental-backends -bc
+exec --no-startup-id picom --blur-method 'dual_kawase'
 
+
+workspace_auto_back_and_forth yes
